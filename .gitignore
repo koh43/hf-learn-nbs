@@ -1,3 +1,5 @@
 .hf_venv/
 .venv/
-*-model/
+
+distilbert-base-uncased-ner-wnut/
+distilgpt2-eli5-clm/
