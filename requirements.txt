@@ -5,3 +5,8 @@ sacremoses
 seqeval
 ipywidgets
 scikit-learn
+rouge_score
+sacrebleu
+jiwer
+librosa
+soundfile
