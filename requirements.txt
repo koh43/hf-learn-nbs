@@ -2,5 +2,11 @@ datasets==3.6.0
 evaluate
 transformers
 sacremoses
+seqeval
 ipywidgets
 scikit-learn
+rouge_score
+sacrebleu
+jiwer
+librosa
+soundfile

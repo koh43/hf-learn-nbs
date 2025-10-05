@@ -1,4 +1,13 @@
 .hf_venv/
 .venv/
+
+distilbert-base-uncased-ner-wnut/
+distilgpt2-eli5-clm/
+distilbert-base-uncased-txt-cls-imdb/
+distilbert-base-uncased-qa-squad/
+t5-small-summarize-billsum/
+t5-small-translation-opus/
+wav2vec2-base-asr-minds14/
+vit-base-patch16-224-in21k-img-cls-food101/
 *-model/
 .ipynb_checkpoints/
