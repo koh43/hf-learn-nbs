@@ -1,3 +1,4 @@
 .hf_venv/
 .venv/
 *-model/
+.ipynb_checkpoints/
