@@ -11,3 +11,4 @@ wav2vec2-base-asr-minds14/
 vit-base-patch16-224-in21k-img-cls-food101/
 *-model/
 .ipynb_checkpoints/
+test-trainer/
