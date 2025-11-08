@@ -12,3 +12,5 @@ vit-base-patch16-224-in21k-img-cls-food101/
 *-model/
 .ipynb_checkpoints/
 test-trainer/
+wandb/
+results/
